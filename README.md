@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-playing-6ylxzb73m.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/haxie12)
+[<img src="https://spotify-playing-6ylxzb73m.vercel.app" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/haxie12)
 
 ### Connect with me:
 
