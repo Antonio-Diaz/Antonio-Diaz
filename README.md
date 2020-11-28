@@ -11,8 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-playing.antonio-diaz.vercel.app
-/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://spotify-playing-6ylxzb73m.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/haxie12)
 
 ### Connect with me:
 
