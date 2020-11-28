@@ -6,18 +6,18 @@
 - 🌱 I’m currently learning everything about Machine Learning and Improve my Web Developer Skill!
 - 👯 I’m looking for a opportunity with Intership in TI company
 - 🥅 2020/2021 Goals: Introduce myself to the world of machine learning.
-- ⚡ Fun fact: I love to dance salsa, read manga, Play Soccer
+- ⚡ Fun fact: I love to dance salsa, read manga, Play Soccer and make PixelArt
 <br />
 
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-ecru.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/haxie12)
+<br />
 
 ### Connect with me:
 
 [<img align="left" alt="Antonio-Diaz | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Antonio-Diaz | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
 <br />
 
 ### Languages and Tools:
