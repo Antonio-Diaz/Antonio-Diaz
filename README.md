@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://antonio-diaz.vercel.app/api/spotify)](https://open.spotify.com/user/antonio-diaz)
+[![Spotify](https://https://spotify-playing.antonio-diaz.vercel.app/api/spotify)](https://open.spotify.com/user/haxie12)
 <br />
 
 ### Connect with me:
