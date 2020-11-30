@@ -4,7 +4,7 @@
 ## I'm a Jarocho, Good son, Coder, and Nice friend!!
 
 - 🌱 I’m currently learning everything about Machine Learning and Improve my Web Developer Skill!
-- 👯 I’m looking for a opportunity with Intership in TI company
+- 👯 I’m looking for an internship opportunity in an IT company.
 - 🥅 2020/2021 Goals: Introduce myself to the world of machine learning.
 - ⚡ Fun fact: I love to dance salsa, read manga, Play Soccer and make PixelArt
 <br />
