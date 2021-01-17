@@ -1,7 +1,7 @@
 ### Hi there, I'm Antonio - aka [Haxie][twitter]👋
 <br />
 
-## I'm a Jarocho, Good son, Coder, and Nice friend!!
+## I'm Jarocho, Good son, Coder, and Nice friend!!
 
 - 🌱 I’m currently learning everything about Machine Learning and Improve my Web Developer Skill!
 - 👯 I’m looking for an internship opportunity in an IT company.
