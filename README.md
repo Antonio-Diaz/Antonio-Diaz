@@ -3,9 +3,9 @@
 
 ## I'm Jarocho, Good son, Coder, and Nice friend!!
 
-- 🌱 I’m currently learning everything about Machine Learning and Improve my Web Developer Skill!
+- 🌱 I’m currently learning everything about Machine Learning and Improve my Mobile/Web Developer Skill!
 - 👯 I’m looking for an internship opportunity in an IT company.
-- 🥅 2020/2021 Goals: Introduce myself to the world of machine learning.
+- 🥅 2021/2022 Goals: Introduce myself to the world of machine learning.
 - ⚡ Fun fact: I love to dance salsa, read manga, Play Soccer and make PixelArt
 <br />
 
