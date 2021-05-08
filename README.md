@@ -1,5 +1,4 @@
 ### Hi there, I'm Antonio - aka [Haxie][twitter]👋
-<br />
 
 ## I'm Jarocho, Good son, Coder, and Nice friend!!
 
