@@ -1,6 +1,5 @@
 ### Hi there, I'm Antonio - aka [Haxie][twitter]👋
 
-## I'm Jarocho, Good son, Coder, and Nice friend!!
 
 - 🌱 I’m currently learning everything about Machine Learning and Improve my Mobile/Web Developer Skill!
 - 👯 I’m looking for an opportunity as Developer Web Mid
