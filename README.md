@@ -1,9 +1,8 @@
 ### Hi there, I'm Antonio - aka [Haxie][twitter]👋
 
 
-- 🌱 I’m currently learning everything about Machine Learning and Improve my Mobile/Web Developer Skill!
-- 👯 I’m looking for an opportunity as Developer Web Mid
-- 🥅 2021/2022 Goals: Introduce myself to the world of machine learning.
+- 🌱 I’m currently learning everything about Machine Learning and Improve my backend knowlegde
+- 👯 I’m looking for an opportunity as Machine Learning Engnieer or data science
 - ⚡ Fun fact: I love to dance salsa, read manga, Play Soccer and make PixelArt
 <br />
 
