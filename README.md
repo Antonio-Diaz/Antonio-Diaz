@@ -1,8 +1,8 @@
 ### Hi there, I'm Antonio - aka [Haxie][twitter]👋
 
 
-- 🌱 I’m currently learning everything about Data.
-- 👯 I’m looking for an opportunity as Data Engineer or Data Scientist
+- 🌱 I’m currently improving everything about Data.
+- 👯 I’m Data Engineer
 - ⚡ Fun fact: I love to dance salsa, read manga, Play Soccer and make PixelArt
 <br />
 
