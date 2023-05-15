@@ -22,7 +22,7 @@
 <img align="left" alt="Python" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="SQL" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Oracle" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/oracle.png" />
+<img align="left" alt="oracle-dabase" height="32" width="32" src="https://avatars.githubusercontent.com/u/94555368?s=40&v=4" />
 <img align="left" alt="postgresql" size="32" width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="mongodb" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"  />
 <img align="left" alt="apache-cassandra" height="32" width="32" src="https://avatars.githubusercontent.com/u/47359?s=40&v=4"/>
