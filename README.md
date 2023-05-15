@@ -28,9 +28,9 @@
 <img align="left" alt="apache-cassandra" height="32" width="32" src="https://cassandra.apache.org/assets/img/logo-white.svg"/>
 <img align="left" alt="apache-spark" height="32" width="32" src="https://spark.apache.org/images/spark-logo-rev.svg"/>
 <img align="left" alt="apache-handoop" height="32" width="32" src="https://hadoop.apache.org/hadoop-logo.jpg"/>
-<img align="left" alt="SQL" height="32" width="32" /src="https://kafka.apache.org/logos/kafka_logo--simple.png">
-<img align="left" alt="SQL" height="32" width="32" />
-<img align="left" alt="SQL" height="32" width="32" />
+<img align="left" alt="SQL" height="32" width="32" src="https://kafka.apache.org/logos/kafka_logo--simple.png" />
+<img align="left" alt="SQL" height="32" width="32" src="https://image.pngaaa.com/50/4940050-middle.png"/>
+<img align="left" alt="SQL" height="32" width="32" src="https://banner2.cleanpng.com/20180821/kug/kisspng-amazon-com-amazon-web-services-cloud-computing-ama-amazonwebserviceslogo-svg-apptractor-5b7c13d387d6a5.7766254115348581955564.jpg" />
 <img align="left" alt="SQL" height="32" width="32" />
 <img align="left" alt="SQL" height="32" width="32" />
 <img align="left" alt="SQL" height="32" width="32" />
