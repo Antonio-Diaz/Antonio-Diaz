@@ -27,7 +27,7 @@
 <img align="left" alt="mongodb" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"  />
 <img align="left" alt="apache-cassandra" height="32" width="32" src="https://cassandra.apache.org/assets/img/logo-white.svg"/>
 <img align="left" alt="apache-spark" height="32" width="32" src="https://spark.apache.org/images/spark-logo-rev.svg"/>
-<img align="left" alt="SQL" height="32" width="32" />
+<img align="left" alt="apache-handoop" height="32" width="32" src="https://hadoop.apache.org/hadoop-logo.jpg"/>
 <img align="left" alt="SQL" height="32" width="32" />
 <img align="left" alt="SQL" height="32" width="32" />
 <img align="left" alt="SQL" height="32" width="32" />
