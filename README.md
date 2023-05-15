@@ -32,9 +32,9 @@
 <img align="left" alt="apache-airflow" height="32" width="100" src="https://image.pngaaa.com/50/4940050-middle.png"/>
 <img align="left" alt="aws" height="32" width="75" src="https://banner2.cleanpng.com/20180821/kug/kisspng-amazon-com-amazon-web-services-cloud-computing-ama-amazonwebserviceslogo-svg-apptractor-5b7c13d387d6a5.7766254115348581955564.jpg" />
 <img align="left" alt="gpc" height="32" width="32" src="https://e7.pngegg.com/pngimages/875/440/png-clipart-logo-google-cloud-platform-cloud-computing-font-cloud-computing-text-cloud.png"/>
-<img align="left" alt="redshift" height="32" width="32" src="https://www.clipartmax.com/png/middle/200-2006597_data-warehouse-em-nuvem-com-o-amazon-redshift-amazon-redshift-logo.png" />
-<img align="left" alt="bigquery" height="32" width="32" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.png" />
-<img align="left" alt="snowflake" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg.png"/>
+<img align="left" alt="redshift" height="32" width="74" src="https://www.clipartmax.com/png/middle/200-2006597_data-warehouse-em-nuvem-com-o-amazon-redshift-amazon-redshift-logo.png" />
+<img align="left" alt="bigquery" height="32" width="75" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.png" />
+<img align="left" alt="snowflake" height="32" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg.png"/>
 <img align="left" alt="Git" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
