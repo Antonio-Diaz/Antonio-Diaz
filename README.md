@@ -28,7 +28,7 @@
 <img align="left" alt="apache-cassandra" height="32" width="32" src="https://cassandra.apache.org/assets/img/logo-white.svg"/>
 <img align="left" alt="apache-spark" height="32" width="32" src="https://spark.apache.org/images/spark-logo-rev.svg"/>
 <img align="left" alt="apache-handoop" height="32" width="32" src="https://hadoop.apache.org/hadoop-logo.jpg"/>
-<img align="left" alt="SQL" height="32" width="32" />
+<img align="left" alt="SQL" height="32" width="32" /src="https://kafka.apache.org/logos/kafka_logo--simple.png">
 <img align="left" alt="SQL" height="32" width="32" />
 <img align="left" alt="SQL" height="32" width="32" />
 <img align="left" alt="SQL" height="32" width="32" />
