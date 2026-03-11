@@ -1,45 +1,64 @@
-### Hi there, I'm Antonio - aka [Haxie][twitter]👋
+# Hi, I'm Antonio 👋
 
+**Senior Data Engineer** based in Veracruz, México 🇲🇽  
+Building scalable data infrastructure for fintech at **RappiCard México**.  
+Passionate about clean pipelines, solid architecture, and developer tooling.
 
-- 🌱 I’m currently improving everything about Data Engineering.
-- 👯 I’m Data Engineer who wants be reach new goals.
-- ⚡ Fun fact: I love to dance salsa, read manga, Play Soccer and make PixelArt
-<br />
+---
 
-### Spotify Playing 🎧
+## 🚀 What I'm Working On
 
-[<img src="https://spotify-ecru.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/haxie12)
-<br />
+- 🔧 Building production-grade **ETL pipelines** and **data warehouse models** at RappiCard
+- 🤖 Developing **LangChain / LangGraph** applications and custom tooling
+- 🛠️ Creating developer utilities for LLM workflow observability (logging, callbacks, terminal visualization)
 
-### Connect with me:
+---
 
-[<img align="left" alt="Antonio-Diaz | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Antonio-Diaz | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+## 🧰 Tech Stack
 
-### Languages and Tools:
+**Data Engineering**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
-<img align="left" alt="Python" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="SQL" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="oracle-dabase" height="32" width="32" src="https://e7.pngegg.com/pngimages/261/825/png-clipart-logo-sail-racing-oracle-tee-grey-violet-brand-font-angle-oracle-database-book-angle-text.png" />
-<img align="left" alt="postgresql" size="32" width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="mongodb" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"  />
-<img align="left" alt="apache-cassandra" height="32" width="32" src="https://cassandra.apache.org/assets/img/logo-white.svg"/>
-<img align="left" alt="apache-spark" height="32" width="32" src="https://spark.apache.org/images/spark-logo-rev.svg"/>
-<img align="left" alt="apache-handoop" height="32" width="100" src="https://hadoop.apache.org/hadoop-logo.jpg"/>
-<img align="left" alt="apache-kafka" height="32" width="32" src="https://kafka.apache.org/logos/kafka_logo--simple.png" />
-<img align="left" alt="apache-airflow" height="32" width="100" src="https://image.pngaaa.com/50/4940050-middle.png"/>
-<img align="left" alt="aws" height="32" width="75" src="https://banner2.cleanpng.com/20180821/kug/kisspng-amazon-com-amazon-web-services-cloud-computing-ama-amazonwebserviceslogo-svg-apptractor-5b7c13d387d6a5.7766254115348581955564.jpg" />
-<img align="left" alt="gpc" height="32" width="32" src="https://e7.pngegg.com/pngimages/875/440/png-clipart-logo-google-cloud-platform-cloud-computing-font-cloud-computing-text-cloud.png"/>
-<img align="left" alt="redshift" height="32" width="74" src="https://www.clipartmax.com/png/middle/200-2006597_data-warehouse-em-nuvem-com-o-amazon-redshift-amazon-redshift-logo.png" />
-<img align="left" alt="bigquery" height="32" width="75" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.png" />
-<img align="left" alt="snowflake" height="32" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg.png"/>
-<img align="left" alt="Git" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+**AI / LLM**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 
-<br />
-<br />
+**General**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-[twitter]: https://twitter.com/AzHaxie
-[linkedin]: https://linkedin.com/in/j-antonio-udiaz/
+---
 
+## 💼 Work Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| 🔵 Senior Data Engineer | RappiCard México | Aug 2025 – Present |
+| ⚪ Data Engineer | RappiCard México | Dec 2023 – Sep 2025 |
+
+> 2+ years building and scaling data pipelines and warehouse architecture for one of Mexico's leading fintech credit card platforms.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="Profile views"/>
+</p>
