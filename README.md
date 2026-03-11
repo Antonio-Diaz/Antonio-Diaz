@@ -60,5 +60,5 @@ Passionate about clean pipelines, solid architecture, and developer tooling.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=antonio-diaz&color=blueviolet&style=flat" alt="Profile views"/>
 </p>
